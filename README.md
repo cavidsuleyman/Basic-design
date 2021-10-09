@@ -9,7 +9,7 @@
 Hello, welcome to this lesson. Today I create html and css file for Basic-design-template. I use here html and css tags. 
 ## ## RULES OF USE
 
-> **STEP-1:** `git clone https://github.com/cavidsuleyman/Fashion-website-template.git` <br/>
+> **STEP-1:** `git clone https://github.com/cavidsuleyman/Basic-design.git` <br/>
 > **STEP-2:**  enter the `Basic-design-template` folder that appears <br/>
 > **STEP-3:**  open the folder you are in in a text editor <br/>
 > **STEP-4:**  run the  all the`index.html` files in the main folder <br/>
